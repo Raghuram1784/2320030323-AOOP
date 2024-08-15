@@ -68,9 +68,9 @@ public class LibraryManagementSystem {
                     LibraryUser user = users[i];
                     String bookTitle = booksToBorrow[i];
                     if ("Borrow".equals(borrowActions[i])) {
-                        System.out.println(user.getName() + " borrowed " + bookTitle);
+                        System.out.println(user.getName() + " borrowed -->" + bookTitle);
                     } else {
-                        System.out.println(user.getName() + " returned " + bookTitle);
+                        System.out.println(user.getName() + " returned -->" + bookTitle);
                     }
                 } else {
                     System.out.println("Invalid user interaction: " + borrowActions[i]);
