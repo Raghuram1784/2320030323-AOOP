@@ -15,7 +15,7 @@ Welcome to the **Advanced Object-Oriented Programming (AOOP)** repository. This 
 The "AOOP Practical" folder contains a series of InLab and PostLab exercises that span over six weeks. Each week focuses on implementing specific design patterns and SOLID principles in Java.
 
 ### Week 1
-- **InLab**: 🚀 **Factory Pattern**
+- **InLab** : 🚀 **Factory Pattern**
 
 ### Week 2
 - **InLab**: 🔒 **Singleton Pattern for a Logging System**
