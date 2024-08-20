@@ -18,7 +18,7 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 - **InLab** : 🚀 **Factory Pattern**
 
 ### Week 2
-- **InLab**: 🔒 **Singleton Pattern for a Logging System**
+- **InLab** : 🔒 **Singleton Pattern for a Logging System**
 - **PostLab**: 🏦 **Banking Process with Singleton Pattern**
 
 ### Week 3
