@@ -22,8 +22,8 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 - **PostLab** : 🏦 **Banking Process with Singleton Pattern**
 
 ### Week 3
-- **InLab**: 🎮 **Game Development with Abstract Factory Pattern**
-- **PostLab**: 🚕 **Ride-Sharing Application with Abstract Factory Pattern**
+- **InLab** : 🎮 **Game Development with Abstract Factory Pattern**
+- **PostLab** : 🚕 **Ride-Sharing Application with Abstract Factory Pattern**
 
 ### Week 4
 - **InLab**: 🎵 **Music Streaming Application with Adapter and Decorator Patterns**
