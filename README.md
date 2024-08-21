@@ -26,7 +26,7 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 - **PostLab** : 🚕 **Ride-Sharing Application with Abstract Factory Pattern**
 
 ### Week 4
-- **InLab**: 🎵 **Music Streaming Application with Adapter and Decorator Patterns**
+- **InLab** : 🎵 **Music Streaming Application with Adapter and Decorator Patterns**
 
 ### Week 5
 - **InLab**: 📜 **Logging System with Chain of Responsibility Pattern**
