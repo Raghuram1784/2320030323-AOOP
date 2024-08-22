@@ -29,8 +29,8 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 - **InLab** : 🎵 **Music Streaming Application with Adapter and Decorator Patterns**
 
 ### Week 5
-- **InLab**: 📜 **Logging System with Chain of Responsibility Pattern**
-- **PostLab**: 🗳️ **Online Auction System with Chain of Responsibility Pattern**
+- **InLab** : 📜 **Logging System with Chain of Responsibility Pattern**
+- **PostLab** : 🗳️ **Online Auction System with Chain of Responsibility Pattern**
 
 ### Week 6
 - **InLab**: 🎓 **Student Information System (SIS) with SOLID Principles**
