@@ -45,7 +45,7 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 
 ## 📁 AOOP Projects
 
-The "AOOP Projects" folder includes the following projects:
+The **"AOOP Projects"** folder includes the following projects:
 
 ### Project 1
 - **📦 Order Management System**: Implemented using design principles, Test-Driven Development (TDD), and design patterns.
