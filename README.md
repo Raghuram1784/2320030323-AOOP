@@ -33,10 +33,10 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 - **PostLab** : 🗳️ **Online Auction System with Chain of Responsibility Pattern**
 
 ### Week 6
-- **InLab**: 🎓 **Student Information System (SIS) with SOLID Principles**
-- **PostLab 1**: 👥 **Employee Management with Single Responsibility Principle (SRP)**
-- **PostLab 2**: 📐 **Shape Area Calculation with Open/Closed Principle (OCP)**
-- **PostLab 3**: 🐦 **Bird Management System with Liskov Substitution Principle (LSP)**
+- **InLab** : 🎓 **Student Information System (SIS) with SOLID Principles**
+- **PostLab 1** : 👥 **Employee Management with Single Responsibility Principle (SRP)**
+- **PostLab 2** : 📐 **Shape Area Calculation with Open/Closed Principle (OCP)**
+- **PostLab 3** : 🐦 **Bird Management System with Liskov Substitution Principle (LSP)**
 - **PostLab 4**: 🛠 **Worker Management System with Interface Segregation Principle (ISP)**
 - **PostLab 5**: 💬 **Message Processing System with Dependency Inversion Principle (DIP)**
 - **PostLab 6**: 📚 **Library Management System with All SOLID Principles**
