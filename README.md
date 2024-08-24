@@ -57,7 +57,7 @@ The **"AOOP Projects"** folder includes the following projects:
 
 ## 📁 AOOP Skill
 
-The "AOOP Skill" folder contains weekly skill-building exercises focused on applying design patterns and SOLID principles in Java.
+The "AOOP Skill" folder contains weekly skill-building exercises focused on applying **design patterns** and SOLID principles in Java.
 
 ### Week 1
 - **🛠 Factory Pattern**
