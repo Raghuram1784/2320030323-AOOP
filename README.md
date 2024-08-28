@@ -40,7 +40,8 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 - **PostLab 4** : 🛠 **Worker Management System with Interface Segregation Principle (ISP)**
 - **PostLab 5** : 💬 **Message Processing System with Dependency Inversion Principle (DIP)**
 - **PostLab 6** : 📚 **Library Management System with All SOLID Principles**
-
+### Week 7
+-  **InLab** : 🔍 **Identifying Mininum & Maximum values Using Generics with Interfaces**
 ---
 
 ## 📁 AOOP Projects
