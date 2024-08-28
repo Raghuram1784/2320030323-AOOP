@@ -43,6 +43,8 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
   
 ### Week 7
 -  **InLab** : 🔍 **Identifying Mininum & Maximum values Using Generics with Interfaces**
+-  **PostLab 1** : 🔍 **Implementing a Generic Binary Search Algorithm Using Gernerics**
+
 ---
 
 ## 📁 AOOP Projects
