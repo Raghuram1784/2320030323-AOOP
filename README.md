@@ -78,6 +78,7 @@ The "AOOP Skill" folder contains weekly skill-building exercises focused on appl
 
 ### Week 5
 - **🎓 Student Information System (SIS) with SOLID Principles**
-
+### Week 6
+- **👔 Custom Sorting on Employee Objects using Comparable and Comparator**
 ---
 
