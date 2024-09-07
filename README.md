@@ -5,7 +5,7 @@
 Welcome to the **Advanced Object-Oriented Programming (AOOP)** repository. This repository is organized into three main sections : 
 
 - **AOOP Practical** : Weekly hands-on exercises focusing on design patterns and SOLID principles in Java.
-- **AOOP Projects** : Implementation of projects using design principles, TDD, design patterns, and JUnit 5.
+- **AOOP Projects** : Implementation of projects using design principles, TDD, design patterns, and JUnit5.
 - **AOOP Skill** : Weekly skill-building exercises focusing on applying design patterns and SOLID principles.
 
 ---
