@@ -48,7 +48,7 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 
 ### Week 8
 -  **InLab** : 🗃️ **Implementing a Generic Stack Interface with Linked List and Array**
--  **PostLab** : 🔍 **Implementing a Generic Binary Search Algorithm Using Gernerics**
+-  **PostLab** : 🔍 **Implementing a Generic Priority Queue Data Structure**
 
 ---
 
