@@ -46,6 +46,10 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 -  **PostLab 1** : 🔍 **Implementing a Generic Binary Search Algorithm Using Gernerics**
 -  **PostLab 2** : 🔍 **Implementing a Generic Bubble Sort Algorithm Using Gernerics**
 
+### Week 8
+-  **InLab** : 📥 **Implementing a Generic Stack Interface with Linked List and Array**
+-  **PostLab** : 🔍 **Implementing a Generic Binary Search Algorithm Using Gernerics**
+
 ---
 
 ## 📁 AOOP Projects
