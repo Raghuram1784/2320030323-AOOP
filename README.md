@@ -85,5 +85,7 @@ The "AOOP Skill" folder contains weekly skill-building exercises focused on appl
   
 ### Week 6
 - **🧑‍💻 Custom Sorting on Employee Objects using Comparable and Comparator**
+### Week 7
+- **📱Implementing Sets and Maps in a Contact Management Application**
 ---
 
