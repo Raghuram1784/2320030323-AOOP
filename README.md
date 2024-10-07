@@ -49,6 +49,11 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 ### Week 8
 -  **InLab** : 🗃️ **Implementing a Generic Stack Interface with Linked List and Array**
 -  **PostLab** : 🗃️ **Implementing a Generic Priority Queue Data Structure**
+-  
+### Week 9
+-  **InLab1** : 🗃️ **Sorting Movies by Year Using Comparable**
+-  **InLab2** : 🗃️ **Sorting Employees by Multiple Criteria Using Comparator**
+-  **PostLab** : 🗃️ **Comparing Movies by Rating Using Custom Comparator**
 
 ---
 
