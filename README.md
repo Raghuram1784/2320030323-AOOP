@@ -55,8 +55,8 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 -  **InLab2** : 🗃️ **Sorting Employees by Multiple Criteria Using Comparator**
 -  **PostLab** : 🗃️ **Comparing Movies by Rating Using Custom Comparator**
 ### Week 10
--  **InLab** : 👥 **Implementing Cloneable and Iterator Interfaces in an Employee Management System**
--  **PostLab** : 🗃️ **Comparing Movies by Rating Using Custom Comparator**
+-  **InLab** : 🧑‍💻 **Implementing Cloneable and Iterator Interfaces in an Employee Management System**
+-  **PostLab** : 🎓 **Implementing Cloning of a Student Object Using Cloneable**
 
 ---
 
