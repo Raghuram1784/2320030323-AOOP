@@ -58,7 +58,8 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 -  **InLab** : 🧑‍💻 **Implementing Cloneable and Iterator Interfaces in an Employee Management System**
 -  **PostLab** : 🎓 **Implementing Cloning of a Student Object Using Cloneable**
 ### Week 11
--  **InLab** : 🗂️**Implementing a Contact Management Application Using a Map**
+-  **InLab1** : 🗂️**Implementing a Contact Management Application Using a Map**
+-  **InLab2** :  🎓**Implementing Student Grades Storage Using Sets and Maps**
 
 ---
 
