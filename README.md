@@ -4,7 +4,7 @@
  
 Welcome to the **Advanced Object-Oriented Programming (AOOP)** repository. This repository is organized into three main sections : 
 
-- **AOOP Practical** : Weekly hands-on exercises will focus on Comparator and Comparable, Cloneable and Iterator interfaces, and Sets and Maps in Java, along with design patterns and SOLID principles.
+- **AOOP Practical** : Weekly hands-on exercises focusing on Comparator and Comparable, Cloneable and Iterator interfaces, and Sets and Maps in Java, along with design patterns and SOLID principles.
 - **AOOP Projects** : Implementation of projects using design principles, TDD, design patterns, and JUnit 5.
 - **AOOP Skill** : Weekly skill-building exercises focusing on applying design patterns, SOLID principles, Collections and Threads.
 
