@@ -63,7 +63,7 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 -  **InLab1** : 🗂️**Implementing a Contact Management Application Using a Map**
 -  **InLab2** :  🎓**Implementing Student Grades Storage Using Sets and Maps**
 -  **PostLab1** : 🔢 **Finding the Maximum Value in a Set**
--  **PostLab** : 🍎 **Sorting Fruits Alphabetically Using a Set**
+-  **PostLab2** : 🍎 **Sorting Fruits Alphabetically Using a Set**
   
 ---
 
