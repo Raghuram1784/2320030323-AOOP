@@ -64,6 +64,9 @@ The **"AOOP Practical"** folder contains a series of InLab and PostLab exercises
 -  **InLab2** :  🎓**Implementing Student Grades Storage Using Sets and Maps**
 -  **PostLab1** : 🔢 **Finding the Maximum Value in a Set**
 -  **PostLab2** : 🍎 **Sorting Fruits Alphabetically Using a Set**
+
+### Week 12
+- **InLab1** : 🔢 **Implementing Multi-Threaded Number Printing with Divisibility Checks**
   
 ---
 
