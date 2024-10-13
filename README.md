@@ -12,7 +12,7 @@ Welcome to the **Advanced Object-Oriented Programming (AOOP)** repository. This 
  
 ## 📁 AOOP Practical
 
-The "AOOP Practical" folder contains twelve weeks of InLab and PostLab exercises, focusing on design patterns, SOLID principles, and weekly hands-on exercises covering Comparator and Comparable, Cloneable and Iterator interfaces, Threads, and Sets and Maps in Java.
+The **"AOOP Practical"** folder contains twelve weeks of InLab and PostLab exercises, focusing on design patterns, SOLID principles, and weekly hands-on exercises covering Comparator and Comparable, Cloneable and Iterator interfaces, Threads, and Sets and Maps in Java.
 
 ### Week 1
 - **InLab** : 🚀 **Factory Pattern** 
